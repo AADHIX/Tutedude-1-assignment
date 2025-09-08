@@ -1,16 +1,7 @@
 # newapp
 
-A new Flutter project.
+Assignment 1 
+creating a image loading with network image and assets .
+adding background blur and shadow effect to assets image
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1360" height="636" alt="assign1" src="https://github.com/user-attachments/assets/513e66ce-ba07-4ac2-aaef-154497dc11ff" />
